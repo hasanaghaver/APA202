@@ -1,0 +1,15 @@
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\bin\Debug\net8.0\02-HeapStackRefOutArrayResize.exe
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\bin\Debug\net8.0\02-HeapStackRefOutArrayResize.deps.json
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\bin\Debug\net8.0\02-HeapStackRefOutArrayResize.runtimeconfig.json
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\bin\Debug\net8.0\02-HeapStackRefOutArrayResize.dll
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\bin\Debug\net8.0\02-HeapStackRefOutArrayResize.pdb
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\02-HeapStackRefOutArrayResize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\02-HeapStackRefOutArrayResize.AssemblyInfoInputs.cache
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\02-HeapStackRefOutArrayResize.AssemblyInfo.cs
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\02-HeapStackRefOutArrayResize.csproj.CoreCompileInputs.cache
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\02-HeapStackRefOutArrayResize.sourcelink.json
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\02-HeapStackRefOutArrayResize.dll
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\refint\02-HeapStackRefOutArrayResize.dll
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\02-HeapStackRefOutArrayResize.pdb
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\02-HeapStackRefOutArrayResize.genruntimeconfig.cache
+C:\Users\hasan\OneDrive\Desktop\APA202\02-HeapStackRefOutArrayResize\02-HeapStackRefOutArrayResize\obj\Debug\net8.0\ref\02-HeapStackRefOutArrayResize.dll
