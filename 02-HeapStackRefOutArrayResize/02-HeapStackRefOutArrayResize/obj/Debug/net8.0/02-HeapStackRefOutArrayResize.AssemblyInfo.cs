@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("02-HeapStackRefOutArrayResize")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5b65dd54820ba6e40a696e85d22d07af63707bd9")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+aaa7433e323f50070922d00c935273aef6b30a00")]
 [assembly: System.Reflection.AssemblyProductAttribute("02-HeapStackRefOutArrayResize")]
 [assembly: System.Reflection.AssemblyTitleAttribute("02-HeapStackRefOutArrayResize")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
