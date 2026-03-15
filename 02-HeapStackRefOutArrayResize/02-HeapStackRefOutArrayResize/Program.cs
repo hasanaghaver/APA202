@@ -5,20 +5,19 @@
         static void Main(string[] args)
         {
             // Task Sinifde izah etdiyim kimi yazdigimiz CustomArrResize metoduna ikinci parameter olaraq nums arrayi gondereceksiniz.
-            int[] a= { 1, 2, 3, 4};
-            int[] nums= { 5, 6, 7, 8, 9 };
+            int[] numbers= { 1, 2, 3, 4};
 
-            CustomArrResize(ref a,nums);
+            CustomArrResize(ref numbers,5,6,7,8,9);
 
 
-            for (int i = 0; i < a.Length; i++)
+            for (int i = 0; i < numbers.Length; i++)
             {
-                Console.WriteLine(a[i]);
+                Console.WriteLine(numbers[i]);
             }
 
         }
 
-        public static void CustomArrResize(ref int[] arr1, int[] nums)
+        public static void CustomArrResize(ref int[] arr1, params int[] nums)
         {
             int[] newArr = new int[arr1.Length + nums.Length];
             for (int i = 0; i < newArr.Length; i++)
