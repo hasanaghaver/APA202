@@ -4,9 +4,9 @@
     {
         static void Main(string[] args)
         {
-            Student student1 = new("Huseyn","Rzayev",19,"huseyn@gmail.com","100000","13","MQ",88.5,2);
-            Student student2 = new("Hesen","Agaverdiyev",20,"hasan@gmail.com","100001","19","ITT",92.0,3);
-            Student student3 = new("Mehdi","Qurbanov",18,"mehdi@gmail.com","100034","4","PA",68.5,1);
+            Student student1 = new("Huseyn", "Rzayev", 19, "huseyn@gmail.com", "100000", "13", "MQ", 88.5, 2);
+            Student student2 = new("Hesen", "Agaverdiyev", 20, "hasan@gmail.com", "100001", "19", "ITT", 92.0, 3);
+            Student student3 = new("Mehdi", "Qurbanov", 18, "mehdi@gmail.com", "100034", "4", "PA", 68.5, 1);
 
             Teacher teacher1 = new("Kamran", "Ebilov", 46, "kamran@gmail.com", "104743", "KA", "Informatika", 1500, 15);
             Teacher teacher2 = new("Eliebbas", "Haxiyev", 78, "eliabbas@gmail.com", "147374", "RVSI", "Riyaziyyat", 1450, 8);
@@ -15,7 +15,7 @@
 
             //telebeler ucun
             student1.ShowStudentInfo();
-            Console.WriteLine("Teqaud:"+ student1.CalculateScholarship());
+            Console.WriteLine("Teqaud:" + student1.CalculateScholarship());
             Console.WriteLine("---------------------------------------------------------");
             student2.ShowStudentInfo();
             Console.WriteLine("Teqaud:" + student2.CalculateScholarship());
@@ -40,7 +40,15 @@
             administrator1.ShowAdminInfo();
             administrator1.GrantAccess(student2);
 
+            Console.WriteLine("---------------------------------------------------------");
+            Console.WriteLine("---------------------------------------------------------");
+            Console.WriteLine("---------------------------------------------------------");
+            //Umumi Statistika
+            int totalScholarship = student1.CalculateScholarship() + student2.CalculateScholarship() + student3.CalculateScholarship();
+            Console.WriteLine($"Umumi teqaud xerci: {totalScholarship}");
 
+            decimal totalSalary = (teacher1.BaseSalary + (teacher1.ExperienceYears * 50)) + (teacher2.BaseSalary + (teacher2.ExperienceYears * 50));
+            Console.WriteLine($"Umumi maas xerci: {totalSalary}");
         }
     }
 }

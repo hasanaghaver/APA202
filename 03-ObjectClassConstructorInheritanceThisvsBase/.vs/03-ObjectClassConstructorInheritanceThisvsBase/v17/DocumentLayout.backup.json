@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{BBE62E6B-C812-4535-ABAA-9DFB01031A30}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BBE62E6B-C812-4535-ABAA-9DFB01031A30}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BBE62E6B-C812-4535-ABAA-9DFB01031A30}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{BBE62E6B-C812-4535-ABAA-9DFB01031A30}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BBE62E6B-C812-4535-ABAA-9DFB01031A30}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BBE62E6B-C812-4535-ABAA-9DFB01031A30}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BBE62E6B-C812-4535-ABAA-9DFB01031A30}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BBE62E6B-C812-4535-ABAA-9DFB01031A30}|03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\03-objectclassconstructorinheritancethisvsbase\\03-objectclassconstructorinheritancethisvsbase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,7 +34,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Administrator.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
               "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
@@ -42,12 +42,11 @@
               "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAiwB4AAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T19:32:57.987Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T19:32:57.987Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
               "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
               "ViewState": "AgIAABMAAAAAAAAAAAAgwBwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T19:07:25.581Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T19:07:25.581Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
               "ViewState": "AgIAABoAAAAAAAAAAIA2wCEAAABWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T18:48:18.759Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T18:48:18.759Z"
             },
             {
               "$type": "Document",
@@ -90,9 +87,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
               "RelativeDocumentMoniker": "03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
-              "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAA1wBEAAABKAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\03-ObjectClassConstructorInheritanceThisvsBase\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs*",
+              "RelativeToolTip": "03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs*",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAACwAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T18:47:16.378Z",
               "EditorCaption": ""
