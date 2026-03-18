@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("04-AccessModifiresEncupsulationNamespace")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+625c90046f0a96bfe42ab0c5ec92b4468f7cc4d5")]
-[assembly: System.Reflection.AssemblyProductAttribute("04-AccessModifiresEncupsulationNamespace")]
-[assembly: System.Reflection.AssemblyTitleAttribute("04-AccessModifiresEncupsulationNamespace")]
+[assembly: System.Reflection.AssemblyProductAttribute("Domain")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // MSBuild WriteCodeFragment sınıfı tarafından oluşturuldu.
