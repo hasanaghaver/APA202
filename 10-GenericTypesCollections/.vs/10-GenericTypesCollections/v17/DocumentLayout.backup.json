@@ -7,8 +7,8 @@
       "RelativeMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\10-generictypescollections\\models\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|solutionrelative:models\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\10-generictypescollections\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\10-generictypescollections\\models\\member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,8 +19,8 @@
       "RelativeMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|solutionrelative:models\\library.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\10-generictypescollections\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|solutionrelative:models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\10-generictypescollections\\models\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DFBDFC14-3C63-4BA8-858D-67ABDF5F2347}|10-GenericTypesCollections.csproj|solutionrelative:models\\bookmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,13 +34,13 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "BookManager.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\10-GenericTypesCollections\\Models\\BookManager.cs",
               "RelativeDocumentMoniker": "Models\\BookManager.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\10-GenericTypesCollections\\Models\\BookManager.cs",
               "RelativeToolTip": "Models\\BookManager.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwBAAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T19:14:37.024Z",
               "EditorCaption": ""
@@ -53,7 +53,7 @@
               "RelativeDocumentMoniker": "Models\\Library.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\10-GenericTypesCollections\\Models\\Library.cs",
               "RelativeToolTip": "Models\\Library.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAmwBgAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAABwAAAAAAAAAAAAcwBgAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T18:59:07.1Z",
               "EditorCaption": ""
@@ -66,20 +66,20 @@
               "RelativeDocumentMoniker": "Models\\Member.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\10-GenericTypesCollections\\Models\\Member.cs",
               "RelativeToolTip": "Models\\Member.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACMAAAA6AAAAAAAAAA==",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAiwCMAAAA6AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T18:38:30.623Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\10-GenericTypesCollections\\Models\\Book.cs",
               "RelativeDocumentMoniker": "Models\\Book.cs",
               "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\10-GenericTypesCollections\\Models\\Book.cs",
               "RelativeToolTip": "Models\\Book.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBsAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAABXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T18:22:08.897Z",
               "EditorCaption": ""
@@ -90,9 +90,9 @@
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\10-GenericTypesCollections\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\10-GenericTypesCollections\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAKYAAAAAAAAAAAAAAKEAAABBAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\10-GenericTypesCollections\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAKYAAAAAAAAAAAAAAKYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-02T18:21:07.138Z",
               "EditorCaption": ""
