@@ -1,0 +1,35 @@
+* {
+    margin: 10px;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.text1 {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 50px;
+    justify-content: center;
+}
+
+.right {
+    margin-top: 100px;
+    width: 35%;
+    color: #3b79c9;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.left1-text {
+    width: 55%; 
+    color: #444;
+    line-height: 1.6;
+    font-size: 18px;
+}
+
+.left2-text {
+    width: 55%;
+    color: #444;
+    line-height: 1.6;
+    font-style: italic;
+    font-size: 22px;
+}
