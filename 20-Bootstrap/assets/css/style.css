@@ -1,0 +1,417 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a,ul{
+    text-decoration: none;
+}
+#head{
+    height: 953px;
+    background: linear-gradient(to bottom, rgba(92, 77, 66, 0.8) 0%, rgba(92, 77, 66, 0.8) 100%), url("../images/bg-masthead.jpg") no-repeat center fixed;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+.menu{
+    display: none;
+}
+.nav{
+    height: 80px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.logo p {
+    margin: 0;
+}
+.section{
+    height: 100%;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.section a{
+    font-family: "Merriweather Sans", sans-serif;
+    color: #ccc8c5;
+    font-weight: 900;
+    font-display: bold;
+    font-size: 14.4px;
+    gap: 20px;
+}
+.logo{
+    font-family: "Merriweather Sans", sans-serif;
+    display: flex;
+    align-items: center;
+    color: #ccc8c5;
+    font-size: 20px;
+    font-weight: 900;
+    font-display: bold;
+    transition: all 0.3s ease;
+}
+.logo :hover,.section a:hover{
+    color: white;
+    cursor: pointer;
+}
+.hero{
+    min-height: 100vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.hero h1{
+    width: 680px;
+    font-family: "Merriweather Sans", sans-serif;
+    color: #ffffff;
+    font-size: 56px;    
+    text-align: center;
+}
+.orange{
+    background-color: #f4623a;
+    height: 3.19px;
+    width: 52px;
+}
+.hero p{
+    width: 800px;
+    font-family: "Merriweather Sans", sans-serif;
+    color: #ccc8c5;
+    font-size: 18.4px;    
+    text-align: center;
+    margin:  0px 0px 20px 0px;
+}
+.hero button{
+    width: 197px;
+    height: 60px;
+    background-color: #f4623a;
+    border: none;
+    border-radius: 25px;
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 13.6px;
+    font-weight: 700;
+    color: white;
+}
+.hero button:hover{
+    background-color: #cf5331;  
+    cursor: pointer;
+}
+.start-org{
+    height: 500px;
+    background-color: #f4623a;
+}
+.start{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.start h2{
+    width: 680px;
+    font-family: "Merriweather Sans", sans-serif;
+    color: #ffffff;
+    font-size: 32px;    
+    text-align: center;
+}
+.white{
+    background-color: white;
+    height: 3.19px;
+    width: 52px;
+}
+.start p{
+    width: 800px;
+    font-family: "Merriweather Sans", sans-serif;
+    color: #fcd8ce;
+    font-size: 16px;    
+    text-align: center;
+    margin:  0px 0px 20px 0px;
+}
+.start button{
+    width: 160px;
+    height: 60px;
+    background-color: #ffffff;
+    border: none;
+    border-radius: 160px;
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 13.6px;
+    font-weight: 700;
+    color: black;
+}
+.start button:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+.about{
+    min-height: 550px;
+    height: auto;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 128px 0px;
+    gap: 50px;
+}
+.services{
+    display: flex;
+    justify-content: space-between;
+    gap: 30px;
+}
+.service{
+    width: 270px;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+    padding: 20px;
+}
+.service h3{
+    font-family: "Merriweather Sans", sans-serif;
+    color: #212529;
+    font-size: 24px;    
+    text-align: center;
+    margin: 0px 0px 8px ;
+}
+.services p{
+    font-family: "Merriweather Sans", sans-serif;
+    color: #6c756D;
+    font-size: 16px;    
+    text-align: center;
+    font-weight: 100px;
+}
+.icon{
+    font-size: 40px;
+    color: rgb(244, 98, 58);    
+    margin: 20px ;
+}
+.about-line{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.pictures{
+    height: auto;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+.pictures img{
+    width: 33.33%;
+    height: 50%;
+}
+.pictures img:hover{
+    cursor: pointer;
+}
+.download{
+    height: 380px;
+    background-color: #212529;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.download h2{
+    font-family: "Merriweather Sans", sans-serif;
+    color: #ffffff;
+    font-size: 32px;    
+    text-align: center;
+}
+.download button{
+    width: 195px;
+    height: 60px;
+    background-color: white;
+    border: none;
+    border-radius: 160px;
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 13.6px;
+    font-weight: 700;
+    color: black;
+}
+.download button:hover{
+    background-color: lightgray;
+    cursor: pointer;
+}
+.comment{
+    height: 1020px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+}
+.comment h2{
+    font-family: "Merriweather Sans", sans-serif;
+    color: #212529;
+    font-size: 32px;    
+    text-align: center;
+    margin: 0px 0px 8px ;
+}
+.comment p{
+    width: 588px;
+    font-family: "Merriweather Sans", sans-serif;
+    color: #6c756D;
+    font-size: 16px;    
+    text-align: center;
+}
+.comment input{
+    width: 580px;
+    height: 58px;
+    border-radius: 10px;
+    border: 1px solid #ced4da;
+    font-family: "Merriweather Sans", sans-serif;
+    padding: 0px 20px;
+}
+#message{
+    width: 580px;
+    height: 200px;
+    border-radius: 10px;
+    border: 1px solid #ced4da;
+    font-family: "Merriweather Sans", sans-serif;
+    padding: 20px;
+}
+.comment button{
+    width: 590px;
+    height: 60px;
+    border-radius: 30px;
+    background-color: #f8997f;
+    border: none;
+    color: #fef4f1;
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 13.6px;
+    font-weight: 900;
+    margin-bottom: 50px;
+}
+.phone{
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 16px;
+    font-weight: 100px;
+}
+#footer{
+    height: 120px;
+    background-color: #f8f9fa;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #6c756D;
+    font-family: "Merriweather Sans", sans-serif;
+    font-size: 14px;
+    font-weight: 100px;
+}
+
+@media screen and (max-width: 992px) {
+    .section{
+        display: none;
+    }
+    .menu{
+        display: block;
+    }
+    .hero h1, .start h2 {
+        width: 90%;
+        font-size: 40px;
+    }
+    .hero p, .start p, .comment p {
+        width: 90%;
+    }
+    .services {
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+    .service {
+        width: 45%;
+    }
+    .pictures img {
+        width: 50%;
+        height: auto;
+        aspect-ratio: 4/3;
+        object-fit: cover;
+    }
+    .comment input, #message, .comment button {
+        width: 90%;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    #head {
+        height: auto;
+        min-height: 100vh;
+        padding: 0;
+    }
+
+    .nav {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        width: 100%;
+        height: 70px;
+        padding: 0 20px;
+    }
+    .container {
+        max-width: 100%;
+        width: 100%;
+        padding-left: 40px;
+        padding-right: 40px;
+    }
+
+    .logo p {
+        margin: 0;
+    }
+
+    .section {
+        display: none;
+    }
+
+    .menu {
+        display: flex;
+        align-items: center;
+    }
+
+    .hero {
+        height: auto;
+        padding: 40px 0 100px 0;
+    }
+
+    .hero h1 {
+        font-size: 32px;
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    .hero p {
+        width: 90%;
+        margin: 20px auto;
+    }
+
+    .start-org, .about, .download, .comment {
+        height: auto;
+        padding: 80px 0;
+    }
+
+    .service, .pictures img {
+        width: 100%;
+    }
+
+    .comment input, #message, .comment button {
+        width: 95%;
+    }
+}
+
+@media screen and (max-width: 480px) {
+    .hero h1 {
+        font-size: 28px;
+    }
+    .hero button, .start button, .download button {
+        width: 80%;
+    }
+    
+}
