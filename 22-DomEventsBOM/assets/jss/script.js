@@ -1,16 +1,26 @@
-document.body.style.backgroundColor = "#f7fafc";
+document.body.style.backgroundColor = "lightgray";  // cartin gorunmesi ucun bu rengi verdim.
 
 let cart = document.createElement("div");
 cart.style.width = "300px";
-cart.style.height = "500px";
+cart.style.height = "auto";
 cart.style.backgroundColor = "white";
 cart.style.borderRadius = "10px";
+cart.style.position = "relative";
 document.body.appendChild(cart);
+
+let love = document.createElement("i");
+love.className = "fa-regular fa-heart";
+love.style.fontSize = "20px";
+love.style.color = "white";
+love.style.top = "20px";
+love.style.right = "15px";
+love.style.position = "absolute";
+cart.appendChild(love);
 
 let image = document.createElement("img");
 image.src = "https://picsum.photos/200/300";
 image.style.width = "100%";
-image.style.height = "40%";
+image.style.height = "200px";
 image.style.borderRadius = "10px 10px 0px 0px";
 cart.appendChild(image);
 
@@ -108,30 +118,37 @@ bathroomDiv.appendChild(bathroomText);
 
 let secondLine = document.createElement("hr");
 secondLine.style.border = "0.5px solid #e2e8f0";
-secondLine.style.margin = "10px 0px";
+secondLine.style.margin = "0px";
 cart.appendChild(secondLine);
 
+
+let realtorDiv = document.createElement("div");
+realtorDiv.style.width = "100%";
+realtorDiv.style.height = "auto";
+realtorDiv.style.display = "flex";
+realtorDiv.style.alignItems = "center";
+realtorDiv.style.flexWrap = "wrap";
+realtorDiv.style.backgroundColor = "#f7fafc";
+realtorDiv.style.paddingBottom = "20px";
+realtorDiv.style.borderRadius = "0px 0px 10px 10px";
+cart.appendChild(realtorDiv);
+
 let realtor = document.createElement("p");
+realtor.style.width = "100%"
 realtor.innerText = "REALTOR";
+realtor.style.marginLeft = "10px";
 realtor.style.fontSize = "14px";
 realtor.style.fontFamily = "Arial, Helvetica, sans-serif";
 realtor.style.fontWeight = "550";
 realtor.style.color = "#718096";
-realtor.style.margin = "15px 10px";
-cart.appendChild(realtor);
-
-
-let realtorDiv = document.createElement("div");
-realtorDiv.style.display = "flex";
-realtorDiv.style.alignItems = "center";
-realtorDiv.style.margin = "10px 10px";
-cart.appendChild(realtorDiv);
+realtorDiv.appendChild(realtor);
 
 let realtorImage = document.createElement("img");
 realtorImage.src = "https://picsum.photos/id/237/200/300";
 realtorImage.style.width = "50px";
 realtorImage.style.height = "50px";
 realtorImage.style.borderRadius = "50%";
+realtorImage.style.marginLeft = "10px";
 realtorDiv.appendChild(realtorImage);
 
 let realtorInfo = document.createElement("div");
