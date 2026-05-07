@@ -12,8 +12,8 @@ namespace _27_FrontToBackSqlConnection
            
             builder.Services.AddControllersWithViews();
 
-
-            builder.Services.AddDbContext<AppDbContext>(opt=>opt.UseSqlServer("Server=ACER\\MSSQLSERVER01;Database=Pronia;Trusted_Connection=true;TrustServerCertificate=true"));
+            builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("default")));
+            //builder.Services.AddDbContext<AppDbContext>(opt=>opt.UseSqlServer("Server=ACER\\MSSQLSERVER01;Database=Pronia;Trusted_Connection=true;TrustServerCertificate=true"));
 
             var app = builder.Build();
 

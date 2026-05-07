@@ -1,25 +1,25 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\",
+  "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\27-fronttobacksqlconnection\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\27-fronttobacksqlconnection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\27-fronttobacksqlconnection\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -30,71 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Slider.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
-              "RelativeDocumentMoniker": "Models\\Slider.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
-              "RelativeToolTip": "Models\\Slider.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T19:34:41.467Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-06T19:32:10.67Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAACOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T19:18:18.268Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-05-07T19:24:29.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "ViewModels\\HomeVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T19:11:51.599Z",
+              "WhenOpened": "2026-05-07T19:03:10.734Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBYAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T17:42:36.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T19:18:18.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAMEAAAAAAAAAAAAkwNIAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-06T19:32:10.67Z",
               "EditorCaption": ""
             }
           ]

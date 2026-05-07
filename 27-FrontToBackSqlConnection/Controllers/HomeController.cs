@@ -2,6 +2,7 @@ using _27_FrontToBackSqlConnection.Data;
 using _27_FrontToBackSqlConnection.Models;
 using _27_FrontToBackSqlConnection.ViewModels;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace _27_FrontToBackSqlConnection.Controllers
 {
@@ -16,6 +17,12 @@ namespace _27_FrontToBackSqlConnection.Controllers
 
         public IActionResult Index()
         {
+            List<Product> products = _context.Products
+                .Where(p=>!p.IsDeleted)
+                .Take(4)
+                .Include(p=>p.ProductImages)
+                .ToList();
+
 
             List<Slider> sliders = _context.Sliders
                 .Where(s => s.IsDeleted == false)
@@ -25,7 +32,8 @@ namespace _27_FrontToBackSqlConnection.Controllers
 
             HomeVM homeVM = new()
             {
-                Sliders = sliders
+                Sliders = sliders,
+                Products = products
             };
 
             return View(homeVM);
