@@ -3,6 +3,7 @@ using _27_FrontToBackSqlConnection.Models;
 using _27_FrontToBackSqlConnection.ViewModels;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
+using System.Threading.Tasks;
 
 namespace _27_FrontToBackSqlConnection.Controllers
 {
@@ -15,20 +16,20 @@ namespace _27_FrontToBackSqlConnection.Controllers
             _context = context;
         }
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            List<Product> products = _context.Products
+            List<Product> products = await _context.Products
                 .Where(p=>!p.IsDeleted)
                 .Take(4)
-                .Include(p=>p.ProductImages)
-                .ToList();
+                .Include(p=>p.ProductImages.Where(pi=> pi.IsPrimary != null && !pi.IsDeleted))
+                .ToListAsync();
 
 
-            List<Slider> sliders = _context.Sliders
+            List<Slider> sliders = await _context.Sliders
                 .Where(s => s.IsDeleted == false)
                 .OrderBy(s => s.Order)
                 .Take(2)
-                .ToList();
+                .ToListAsync();
 
             HomeVM homeVM = new()
             {
