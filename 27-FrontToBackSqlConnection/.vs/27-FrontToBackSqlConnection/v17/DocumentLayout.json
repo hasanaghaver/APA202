@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\areas\\adminpanel\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\controllers\\catagorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\catagory\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\catagory\\detail.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\controllers\\slidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\catagory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\catagory\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|c:\\users\\hasan\\onedrive\\desktop\\apa202\\27-fronttobacksqlconnection\\areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{98998766-C5D0-41CE-98AD-7EBE92EF4737}|27-FrontToBackSqlConnection.csproj|solutionrelative:areas\\adminpanel\\views\\slider\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +27,40 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Catagory\\Index.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Catagory\\Index.cshtml",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Catagory\\Index.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Catagory\\Index.cshtml",
-              "ViewState": "AgIAACMAAAAAAAAAAAAAwCsAAABTAAAAAAAAAA==",
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
+              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Slider\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAwwCcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-12T20:52:32.731Z",
+              "WhenOpened": "2026-05-13T19:38:59.132Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Detail.cshtml",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Catagory\\Detail.cshtml",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Views\\Catagory\\Detail.cshtml",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Views\\Catagory\\Detail.cshtml",
-              "RelativeToolTip": "Areas\\AdminPanel\\Views\\Catagory\\Detail.cshtml",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAAB8AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-12T20:51:49.117Z",
+              "Title": "SliderController.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\SliderController.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAswCUAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-13T19:23:55.494Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "CatagoryController.cs",
-              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\CatagoryController.cs",
-              "RelativeDocumentMoniker": "Areas\\AdminPanel\\Controllers\\CatagoryController.cs",
-              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Areas\\AdminPanel\\Controllers\\CatagoryController.cs",
-              "RelativeToolTip": "Areas\\AdminPanel\\Controllers\\CatagoryController.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAAwD8AAAA0AAAAAAAAAA==",
+              "Title": "Slider.cs",
+              "DocumentMoniker": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
+              "RelativeDocumentMoniker": "Models\\Slider.cs",
+              "ToolTip": "C:\\Users\\hasan\\OneDrive\\Desktop\\APA202\\27-FrontToBackSqlConnection\\Models\\Slider.cs",
+              "RelativeToolTip": "Models\\Slider.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-12T19:50:57.018Z",
+              "WhenOpened": "2026-05-13T19:23:13.394Z",
               "EditorCaption": ""
             }
           ]
