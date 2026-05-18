@@ -347,3 +347,5 @@ wwwroot\assets\scss\_slider.scss
 wwwroot\assets\scss\_testimonial.scss
 wwwroot\assets\scss\_variables.scss
 wwwroot\assets\scss\_wishlist.scss
+wwwroot\assets\images\website-images\174092db-d26f-4dac-b734-d52f97196c531-2-524x617.png
+wwwroot\assets\images\website-images\f8db0f06-5de9-47f7-a17c-4b284c882fc9yeni.png
