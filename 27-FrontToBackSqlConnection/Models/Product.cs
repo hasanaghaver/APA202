@@ -9,5 +9,6 @@
         public int CatagoryId { get; set; }
         public Catagory Catagory { get; set; }
         public List<ProductImage> ProductImages { get; set; }
+        public List<ProductTag> ProductTags { get; set; }
     }
 }

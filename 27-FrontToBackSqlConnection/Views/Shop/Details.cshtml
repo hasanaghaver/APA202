@@ -36,7 +36,7 @@
                                         </a>
                                     </div>
                                 }
-                                
+
                             </div>
                         </div>
                         <div class="thumbs-arrow-holder">
@@ -85,8 +85,8 @@
                             </div>
                         </div>
                         <p class="short-desc">
-                            @(Model.Product.Description.Length>=300 ? Model.Product.Description.Substring(0, 300) : Model.Product.Description)
-                            
+                            @(Model.Product.Description.Length >= 300 ? Model.Product.Description.Substring(0, 300) : Model.Product.Description)
+
                         </p>
                         <ul class="quantity-with-btn">
                             <li class="quantity">
@@ -165,14 +165,22 @@
                                 </li>
                             </ul>
                         </div>
-                        <div class="product-category product-tags">
-                            <span class="title">Tags :</span>
-                            <ul>
-                                <li>
-                                    <a href="#">Furniture</a>
-                                </li>
-                            </ul>
-                        </div>
+
+                        @if (Model.Product.ProductTags is not null && Model.Product.ProductTags.Any())
+                        {
+                            <div class="product-category product-tags">
+                                <span class="title">Tags :</span>
+                                <ul>
+                                    @foreach (ProductTag productTag in Model.Product.ProductTags)
+                                    {
+                                        <li>
+                                            <a href="#">@productTag.Tag.Name</a>
+                                        </li>
+                                    }
+                                </ul>
+                            </div>
+                        }
+
                         <div class="product-category social-link align-items-center pb-0">
                             <span class="title pe-3">Share:</span>
                             <ul>
@@ -442,7 +450,7 @@
                                     <div class="product-img">
                                         <a href="single-product-variable.html">
                                             <img class="primary-img"
-                                                 src="~/assets/images/website-images/@item.ProductImages.FirstOrDefault(pi=>pi.IsPrimary==true)?.Image"
+                                                 src="~/assets/images/website-images/@item.ProductImages.FirstOrDefault(pi => pi.IsPrimary == true)?.Image"
                                                  alt="Product Images" />
                                             <img class="secondary-img"
                                                  src="~/assets/images/website-images/@item.ProductImages.FirstOrDefault(pi => pi.IsPrimary == false)?.Image"
@@ -506,7 +514,7 @@
                                     </div>
                                 </div>
                             }
-                            
+
                         </div>
                     </div>
                 </div>
