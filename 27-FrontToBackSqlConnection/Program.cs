@@ -1,4 +1,6 @@
 using _27_FrontToBackSqlConnection.Data;
+using _27_FrontToBackSqlConnection.Models;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.EntityFrameworkCore;
 
 namespace _27_FrontToBackSqlConnection
@@ -13,9 +15,21 @@ namespace _27_FrontToBackSqlConnection
             builder.Services.AddControllersWithViews();
 
             builder.Services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(builder.Configuration.GetConnectionString("default")));
-            //builder.Services.AddDbContext<AppDbContext>(opt=>opt.UseSqlServer("Server=ACER\\MSSQLSERVER01;Database=Pronia;Trusted_Connection=true;TrustServerCertificate=true"));
+            builder.Services.AddIdentity<AppUser,IdentityRole>(opt =>
+            {
+                opt.Password.RequiredLength = 8;
+                opt.Password.RequireNonAlphanumeric = true;
+
+                opt.User.RequireUniqueEmail = true;
+
+                opt.Lockout.MaxFailedAccessAttempts = 3;
+                opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(1);
+            } ).AddEntityFrameworkStores<AppDbContext>().AddDefaultTokenProviders();
 
             var app = builder.Build();
+
+            app.UseAuthentication();
+            app.UseAuthorization();
 
             app.UseStaticFiles();
 
